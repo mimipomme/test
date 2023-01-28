@@ -8,6 +8,6 @@
 
 [Miro](https://miro.com/app/board/uXjVPvQpYnA=/?share_link_id=899821446302)
 
-## Section 3
+## Gantt
 
-[Link 3](http://www.link3.com)
+[Gantt](https://drive.google.com/file/d/18hV7f8XbgCHO4_1c4YZ-XNEoLMmUXj_C/view?usp=sharing)
