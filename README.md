@@ -1,7 +1,7 @@
 # Dashboard
 
 ## TO-DO List
-![alt text](https://upload.wikimedia.org/wikipedia/commons/6/67/Microsoft_To-Do_icon.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/6/67/Microsoft_To-Do_icon.png == 200x200)
 [Trello](https://trello.com/b/8E7R4Pjz/to-do-list-cyber-aventure)
 
 ## WBS
