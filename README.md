@@ -4,7 +4,7 @@
 
 [Trello](https://trello.com/b/8E7R4Pjz/to-do-list-cyber-aventure)
 
-## Section 2
+## WBS
 
 [Miro](https://miro.com/app/board/uXjVPvQpYnA=/?share_link_id=899821446302)
 
